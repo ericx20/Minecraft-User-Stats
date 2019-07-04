@@ -1,4 +1,4 @@
-# minecraft-user-stats
+# Minecraft-User-Stats
 A Python script that calculates how many hours of your life you've wasted on your own Minecraft server.
 ## Setup
  * Download `mcUserTime.py` and move the file to the folder of your Minecraft Server
